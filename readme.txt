@@ -1,2 +1,2 @@
-Git is a distributed vetsion control system.
-Git is free software.
+Life is simple.
+
