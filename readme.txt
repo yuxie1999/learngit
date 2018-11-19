@@ -1,1 +1,2 @@
-一花一世界，一叶一菩提。
+Git is a distributed vetsion control system.
+Git is free software.
