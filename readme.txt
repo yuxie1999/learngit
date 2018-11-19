@@ -1,2 +1,2 @@
-Life is simple.
+Nothing is impossible for a willing heart.
 
